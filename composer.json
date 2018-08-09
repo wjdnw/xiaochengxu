@@ -1,0 +1,18 @@
+{
+    "name": "wjdnw/xiaochengxu",
+    "description": "关于小程序相关接口封装包",
+    "authors": [
+        {
+            "name": "w",
+            "email": "w@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Wjdnw\\Xiaochengxu\\": "src/"
+        }
+    }
+}
